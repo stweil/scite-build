@@ -1,0 +1,6 @@
+[submodule "scintilla"]
+	path = scintilla
+	url = https://github.com/stweil/scintilla.git
+[submodule "scite"]
+	path = scite
+	url = https://github.com/stweil/scite.git
